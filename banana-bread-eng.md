@@ -1,13 +1,12 @@
 # Banana Protein Bread (High Protein, Low Calorie)
 
-## Macros (per slice, 16 slices total)
+## Macros (per slice, 16 total)
 - Calories: 78 kcal  
 - Protein: 7g  
 - Carbs: 13g  
 - Fat: 0g  
 
-**Macros for 5 slices:**  
-- 388 kcal, 35g protein
+**For 5 slices:** 388 kcal, 35g protein
 
 ---
 
@@ -15,48 +14,78 @@
 
 ### Wet Ingredients / Ingrédients humides
 
-| Ingredient (EN)                    | Metric       | Imperial     | Ingrédient (FR)                     |
-|----------------------------------|--------------|--------------|-------------------------------------|
-| Overripe Bananas (mashed)        | 440g         | ~4 medium    | Bananes mûres (écrasées)            |
-| Plain Nonfat Greek Yogurt        | 227g         | 1 cup        | Yaourt grec nature sans matières grasses |
-| Unsweetened Almond Milk          | 120mL        | ½ cup        | Lait d'amande non sucré             |
-| Water (*optional*)               | 120mL        | ½ cup        | Eau (*optionnelle*)                 |
-| Whole Egg                        | 1 medium     | —            | Œuf entier                          |
-| Brown Sugar Substitute (Swerve)  | 36g          | 3 tbsp       | Substitut de cassonade (Swerve)     |
-
----
+| Ingredient | Amount (Metric) | Amount (Imperial) | Ingrédient (FR) |
+|------------|------------------|--------------------|------------------|
+| Mashed overripe bananas | 440g | ~4 medium | Bananes mûres écrasées |
+| Nonfat plain Greek yogurt | 227g | 1 cup | Yaourt grec nature 0% |
+| Unsweetened almond milk | 120mL | ½ cup | Lait d'amande non sucré |
+| Water (*optional*) | 120mL | ½ cup | Eau (*optionnelle*) |
+| Whole egg | 1 | — | Œuf entier |
+| Brown sugar substitute (Swerve) | 36g | 3 tbsp | Substitut de cassonade (Swerve) |
 
 ### Dry Ingredients / Ingrédients secs
 
-| Ingredient (EN)                    | Metric       | Imperial     | Ingrédient (FR)                     |
-|----------------------------------|--------------|--------------|-------------------------------------|
-| All-Purpose Flour                | 90g          | ¾ cup        | Farine tout usage                   |
-| Granular Sugar Substitute        | 36g          | 3 tbsp       | Édulcorant granulé (Swerve)         |
-| Vanilla Protein Powder           | ~90g         | 3 scoops     | Protéine en poudre à la vanille     |
-| Baking Powder                    | 2g           | ½ tsp        | Levure chimique                     |
-| Ground Cinnamon                  | 2g           | 1 tsp        | Cannelle moulue                     |
-| Salt                             | 1g           | ½ tsp        | Sel                                 |
+| Ingredient | Amount (Metric) | Amount (Imperial) | Ingrédient (FR) |
+|------------|------------------|--------------------|------------------|
+| All-purpose flour | 90g | ¾ cup | Farine tout usage |
+| Granular sugar substitute | 36g | 3 tbsp | Édulcorant granulé |
+| Vanilla protein powder | ~90g | 3 scoops | Protéine en poudre à la vanille |
+| Baking powder | 2g | ½ tsp | Levure chimique |
+| Ground cinnamon | 2g | 1 tsp | Cannelle moulue |
+| Salt | 1g | ½ tsp | Sel |
 
----
+### Optional Mix-ins / Ingrédients optionnels
 
-### Optional Mix-ins / Garnitures optionnelles
-
-| Ingredient (EN)                    | Metric       | Imperial     | Ingrédient (FR)                     |
-|----------------------------------|--------------|--------------|-------------------------------------|
-| Mini Chocolate Chips             | 56g          | ¼ cup        | Pépites de chocolat mini            |
+| Ingredient | Amount (Metric) | Amount (Imperial) | Ingrédient (FR) |
+|------------|------------------|--------------------|------------------|
+| Mini chocolate chips | 56g | ¼ cup | Pépites de chocolat mini |
 
 ---
 
 ## Instructions / Instructions
 
-1. Preheat oven to **350°F (175°C)**.  
-2. In a large bowl, mix **wet ingredients** together.  
-3. In another bowl, combine **dry ingredients**.  
-4. Add dry mixture to wet mixture. Mix well.  
-5. Fold in optional mix-ins if using.  
-6. Pour mixture into a **loaf pan** lined with parchment paper or greased.  
-7. Bake for **50 minutes**. Remove slightly underdone.  
-8. Let rest for **15 minutes** before slicing.  
-9. Slice into **16 slices**. Store in refrigerator.
+### 1. Mix Wet Ingredients  
+**EN:** In a large bowl, mash **440g (~4 medium)** overripe bananas. Add **227g (1 cup)** nonfat Greek yogurt, **120mL (½ cup)** almond milk, **120mL (½ cup)** water (*optional*), **1 whole egg**, and **36g (3 tbsp)** brown sugar substitute. Mix until smooth.  
+**FR:** Dans un grand bol, écrasez **440g (environ 4)** bananes mûres. Ajoutez **227g (1 tasse)** de yaourt grec 0%, **120mL (½ tasse)** de lait d’amande, **120mL (½ tasse)** d’eau (*optionnelle*), **1 œuf entier**, et **36g (3 c. à soupe)** de substitut de cassonade. Mélangez jusqu’à consistance lisse.
 
 ---
+
+### 2. Mix Dry Ingredients  
+**EN:** In a separate bowl, combine **90g (¾ cup)** all-purpose flour, **36g (3 tbsp)** sugar substitute, **~90g (3 scoops)** vanilla protein powder, **2g (½ tsp)** baking powder, **2g (1 tsp)** cinnamon, and **1g (½ tsp)** salt.  
+**FR:** Dans un autre bol, mélangez **90g (¾ tasse)** de farine, **36g (3 c. à soupe)** d’édulcorant, **~90g (3 doses)** de protéine vanille, **2g (½ c. à café)** de levure, **2g (1 c. à café)** de cannelle, et **1g (½ c. à café)** de sel.
+
+---
+
+### 3. Combine Mixtures  
+**EN:** Gradually mix the dry ingredients into the wet ingredients. Stir until fully combined.  
+**FR:** Incorporez progressivement les ingrédients secs au mélange humide. Mélangez jusqu’à homogénéité.
+
+---
+
+### 4. Add Optional Mix-ins  
+**EN:** Fold in **56g (¼ cup)** mini chocolate chips if using.  
+**FR:** Incorporez **56g (¼ tasse)** de pépites de chocolat si vous les utilisez.
+
+---
+
+### 5. Prepare to Bake  
+**EN:** Line a loaf pan with parchment paper or spray with cooking spray. Pour in the batter evenly.  
+**FR:** Tapissez un moule à cake de papier cuisson ou vaporisez d’huile. Versez-y la pâte.
+
+---
+
+### 6. Bake  
+**EN:** Bake at **350°F (175°C)** for **50 minutes**. Remove slightly underdone.  
+**FR:** Faites cuire à **175°C (350°F)** pendant **50 minutes**. Sortez le gâteau légèrement avant la fin.
+
+---
+
+### 7. Cool & Slice  
+**EN:** Let the loaf rest for **15 minutes** before slicing into **16 slices**.  
+**FR:** Laissez reposer pendant **15 minutes**, puis découpez en **16 tranches**.
+
+---
+
+### 8. Store  
+**EN:** Store in the refrigerator.  
+**FR:** Conservez au réfrigérateur.
