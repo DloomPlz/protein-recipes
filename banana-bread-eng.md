@@ -19,7 +19,7 @@
 | Mashed overripe bananas | 440g | ~4 medium | Bananes mûres écrasées |
 | Nonfat plain Greek yogurt | 227g | 1 cup | Yaourt grec nature 0% |
 | Unsweetened almond milk | 120mL | ½ cup | Lait d'amande non sucré |
-| Water (*optional*) | 120mL | ½ cup | Eau (*optionnelle*) |
+| Water (*optional*) | 50mL | ½ cup | Eau (*optionnelle*) |
 | Whole egg | 1 | — | Œuf entier |
 | Brown sugar substitute (Swerve) | 36g | 3 tbsp | Substitut de cassonade (Swerve) |
 
